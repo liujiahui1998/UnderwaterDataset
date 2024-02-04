@@ -149,7 +149,7 @@
 
 <h3 id="RUOD">RUOD</h3>
 
-![image-20240204220150556](C:\Users\Admin\AppData\Roaming\Typora\typora-user-images\image-20240204220150556.png)
+![image-20240204220724430](figs/image-20240204220724430.png)
 
 <h3 id="Fish4Knowledge">Fish4Knowledge</h3>
 
