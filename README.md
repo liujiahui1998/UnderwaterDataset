@@ -50,7 +50,8 @@
 | **【[U-45](#U-45)】**           | **【[百度网盘](https://pan.baidu.com/s/19Qa1spbMTkcSRLL_KcvR1A?pwd=41gd)】** | **【[官方下载](https://github.com/IPNUISTlegal/underwater-test-dataset-U45-)】** |      **【[Paper](https://arxiv.org/abs/1906.06819)】**       |                       **【Github】**                       |                                                              |
 | **【[WaterGAN](#WaterGAN)】**   | **【[百度网盘](https://pan.baidu.com/s/18npTwOvADQ7zybJ3O3fzDQ?pwd=xn8g)】** |      **【[官方下载](https://github.com/kskin/data)】**       |      **【[Paper](https://arxiv.org/abs/1702.07392)】**       |    **【[Github](https://github.com/kskin/WaterGAN/)】**    |                                                              |
 | **【[SUIM-E](#SUIM-E)】**       | **【[百度网盘](https://pan.baidu.com/s/1DJAFKew7po8FMUrS9P7oOw?pwd=qc1j)】** |    **【[官方下载](https://github.com/trentqq/SUIM-E)】**     |                        **【Paper】**                         |    **【[Github](https://github.com/trentqq/SUIM-E)】**     |                       **【Homepage】**                       |
-| **【[TURBID](#TURBID)】**       | **【[百度网盘](https://pan.baidu.com/s/1FlA7uACDVGDYfg7oAOXe_Q?pwd=otol )】** |    **【[官方下载](http://amandaduarte.com.br/turbid/)】**    | **【[Paper](https://ieeexplore.ieee.org/abstract/document/7485524)】** |                       **【Github】**                       |                                                              |
+| **【[LSUI](#LSUI)】**           | **【[百度网盘](https://pan.baidu.com/s/1of2V-n4vCZvoPrd_pfZhtQ?pwd=53yk)】** |                       **【官方下载】**                       |                        **【Paper】**                         |                       **【Github】**                       |                       **【Homepage】**                       |
+|                                 |                                                              |                                                              |                                                              |                                                            |                                                              |
 
 
 
@@ -62,6 +63,7 @@
 | :------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :---------------------------------------------: |
 | **【[UWA-CIRset](#UWA-CIRset)】**                       | **【[百度网盘](https://pan.baidu.com/s/1Vg8aFvjxJF0uUo5CvZe1ZQ?pwd=upf2)】** | **【[官方下载](https://github.com/haozhao10/Underwater-acoustic-channel-dataset/)】** |                        **【Paper】**                         | **【[Github](https://github.com/haozhao10/Underwater-acoustic-channel-dataset/)】** |                **【Homepage】**                 |
 | **【[SeabedObject-KLSG--II](#SeabedObject-KLSG--II)】** | **【[百度网盘](https://pan.baidu.com/s/1q8XRMSgEXtjvjOeJ9OK4tw?pwd=e0g0)】** |                       **【官方下载】**                       |                        **【Paper】**                         |                        **【Github】**                        |                **【Homepage】**                 |
+| **【[TURBID](#TURBID)】**                               | **【[百度网盘](https://pan.baidu.com/s/1FlA7uACDVGDYfg7oAOXe_Q?pwd=otol )】** |    **【[官方下载](http://amandaduarte.com.br/turbid/)】**    | **【[Paper](https://ieeexplore.ieee.org/abstract/document/7485524)】** |                        **【Github】**                        |                                                 |
 
 
 
@@ -128,6 +130,8 @@
 <h3 id="DUO">DUO</h3>
 
 - 6641张训练，1111张测试，总的目标数有74515.
+
+![image-20240204223014673](figs/image-20240204223014673.png)
 
 <h3 id="UODD">UODD</h3>
 
